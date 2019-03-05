@@ -10,6 +10,14 @@ Por hora vamos deixar todos aqui, mais pra frente iremos sumarizar devidamente.
 
 | Nome | Site | Linguagem | Outros links |
 | --- | --- | --- | --- |
+| Brasilino | [https://otacilion.github.io/Brasilino/](https://otacilion.github.io/Brasilino/) | C++ |
+| Bottery | [https://docs.bottery.io/en/latest/](https://docs.bottery.io/en/latest/) | Python | 
+| i-Educar | [https://github.com/portabilis/i-educar/wiki](https://github.com/portabilis/i-educar/wiki) | PHP |
+| Potigol | [http://potigol.github.io/](http://potigol.github.io/) | Scala |
+| RastreioBot | [https://telegram.me/RastreioBot](https://telegram.me/RastreioBot) | Python | [https://github.com/GabrielRF/RastreioBot](https://github.com/GabrielRF/RastreioBot)
+| Serenata de Amor | [https://serenata.ai/en/](https://serenata.ai/en/) | Python |
+| Speakerfight | [https://speakerfight.com/](https://speakerfight.com/) | Python | [https://github.com/luanfonceca/speakerfight](https://github.com/luanfonceca/speakerfight)
+| Rocket.Chat | [https://rocket.chat/](https://rocket.chat/) | Javascript | 
 
 ## Licença
 
