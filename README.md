@@ -18,6 +18,7 @@ Por hora vamos deixar todos aqui, mais pra frente iremos sumarizar devidamente.
 | Serenata de Amor | [https://serenata.ai/en/](https://serenata.ai/en/) | Python |
 | Speakerfight | [https://speakerfight.com/](https://speakerfight.com/) | Python | [https://github.com/luanfonceca/speakerfight](https://github.com/luanfonceca/speakerfight)
 | Rocket.Chat | [https://rocket.chat/](https://rocket.chat/) | Javascript | 
+| Tainacan | [http://tainacan.org/](http://tainacan.org/) | PHP | 
 
 ## Licença
 
