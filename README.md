@@ -12,7 +12,7 @@ Por hora vamos deixar todos aqui, mais pra frente iremos sumarizar devidamente.
 | ------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------ |
 | Brasilino           | [https://otacilion.github.io/Brasilino/](https://otacilion.github.io/Brasilino/)                                 | C++        |
 | Bottery             | [https://docs.bottery.io/en/latest/](https://docs.bottery.io/en/latest/)                                         | Python     |
-| English Talking Api | [https://github.com/barbosamaatheus/english-talking-api](https://github.com/barbosamaatheus/english-talking-api) | Javascript |
+| English Talking Api | [https://github.com/barbosamaatheus/english-talking-api](https://github.com/barbosamaatheus/english-talking-api) | Javascript | https://discord.gg/eba8cr                                                                  |
 | i-Educar            | [https://github.com/portabilis/i-educar/wiki](https://github.com/portabilis/i-educar/wiki)                       | PHP        |
 | Potigol             | [http://potigol.github.io/](http://potigol.github.io/)                                                           | Scala      |
 | RastreioBot         | [https://telegram.me/RastreioBot](https://telegram.me/RastreioBot)                                               | Python     | [https://github.com/GabrielRF/RastreioBot](https://github.com/GabrielRF/RastreioBot)       |
