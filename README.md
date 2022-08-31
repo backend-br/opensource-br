@@ -22,6 +22,7 @@ Por hora vamos deixar todos aqui, mais pra frente iremos sumarizar devidamente.
 | Speakerfight | [https://speakerfight.com/](https://speakerfight.com/) | Python | [https://github.com/luanfonceca/speakerfight](https://github.com/luanfonceca/speakerfight)
 | Rocket.Chat | [https://rocket.chat/](https://rocket.chat/) | Javascript | 
 | Tainacan | [http://tainacan.org/](http://tainacan.org/) | PHP | 
+| gopix | [github.com/souzawagner/gopix](https://github.com/souzawagner/gopix) | Golang | 
 
 ## Licença
 
