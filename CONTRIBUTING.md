@@ -1,4 +1,4 @@
-# Contribuído
+# Contribuindo
 
 * [Overview](#overview)
 * [Como posso contribuir?](#contributing)
