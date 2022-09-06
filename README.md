@@ -42,6 +42,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript |                                                      |
 | [Nullstack](https://github.com/nullstack/nullstack.github.io)                 | Javascript | [site](https://nullstack.app)                        |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api) | Javascript | [discord](https://discord.gg/XTrKQ8w)                |
+| [cpn](https://github.com/vgeruso/cpn)                                         | Javascript |                                                      |
 
 <div id='license'></div>
 
