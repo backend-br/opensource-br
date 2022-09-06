@@ -1,36 +1,57 @@
+<!--suppress HtmlDeprecatedAttribute -->
+
 <p align="center">
   <img src="https://avatars3.githubusercontent.com/u/30732658?v=4&s=200.jpg" alt="BackEndBR" width="230" />
 </p>
 
-# Projetos Open-Source Brasileiros para você contribuir!
+# Open-source BR
 
-Espaço para a divulgação de projetos brasileiros.
+* [Overview](#overview)
+* [Projetos](#projects)
+* [Licença](#license)
+* [Contribuindo](#contributing)
 
-Por hora vamos deixar todos aqui, mais pra frente iremos sumarizar devidamente.
+<div id='overview'></div>
 
-| Nome                | Site                                                                                                             | Linguagem  | Outros links                                                                               |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------ |
-| Brasilino           | [https://otacilion.github.io/Brasilino/](https://otacilion.github.io/Brasilino/)                                 | C++        |
-| Bottery             | [https://docs.bottery.io/en/latest/](https://docs.bottery.io/en/latest/)                                         | Python     |
-| Dialetus            | [https://github.com/mvfsillva/dialetus-service](https://github.com/mvfsillva/dialetus-service)                   | Javascript |
-| English Talking API | [https://github.com/barbosamaatheus/english-talking-api](https://github.com/barbosamaatheus/english-talking-api) | Javascript | [https://discord.gg/XTrKQ8w](https://discord.gg/XTrKQ8w)                                   |
-| i-Educar            | [https://github.com/portabilis/i-educar/wiki](https://github.com/portabilis/i-educar/wiki)                       | PHP        |
-| Nullstack           | [https://github.com/nullstack/nullstack.github.io](https://github.com/nullstack/nullstack.github.io)             | Javascript | [nullstack.app](https://nullstack.app)                                                     |
-| Potigol             | [http://potigol.github.io/](http://potigol.github.io/)                                                           | Scala      |
-| RastreioBot         | [https://telegram.me/RastreioBot](https://telegram.me/RastreioBot)                                               | Python     | [https://github.com/GabrielRF/RastreioBot](https://github.com/GabrielRF/RastreioBot)       |
-| Serenata de Amor    | [https://serenata.ai/en/](https://serenata.ai/en/)                                                               | Python     |
-| Speakerfight        | [https://speakerfight.com/](https://speakerfight.com/)                                                           | Python     | [https://github.com/luanfonceca/speakerfight](https://github.com/luanfonceca/speakerfight) |
-| Rocket.Chat         | [https://rocket.chat/](https://rocket.chat/)                                                                     | Javascript |
-| Tainacan            | [http://tainacan.org/](http://tainacan.org/)                                                                     | PHP        |
-| cpn                 | [https://github.com/vgeruso/cpn](https://github.com/vgeruso/cpn)                                                 | Javascript |
+## Overview
+
+Espaço para divulgação de projetos open-source brasileiros.
+
+<div id='projects'></div>
+
+## Projetos
+
+| Nome                                                                          | Linguagem  | Outros links                                         |
+|-------------------------------------------------------------------------------|------------|------------------------------------------------------|
+| [weather-api](https://github.com/robertoduessmann/weather-api)                | Go         |                                                      |
+| [gopix](https://github.com/souzawagner/gopix)                                 | Go         |                                                      |
+| [Brasilino](https://github.com/OtacilioN/Brasilino)                           | C++        |                                                      |
+| [i-Educar](https://github.com/portabilis/i-educar)                            | PHP        |                                                      |
+| [Tainacan](https://github.com/tainacan/tainacan)                              | PHP        |                                                      |
+| [Tiny Blocks](https://github.com/tiny-blocks)                                 | PHP        |                                                      |
+| [Turing](https://github.com/openturing/turing)                                | Java       | [documentation](https://openviglet.github.io/turing) |
+| [Vecchio](https://github.com/openviglet/vecchio)                              | Java       |                                                      |
+| [Potigol](https://github.com/potigol/potigol)                                 | Scala      |                                                      |
+| [Kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin     |                                                      |
+| [Bottery](https://github.com/rougeth/bottery)                                 | Python     |                                                      |
+| [RastreioBot](https://github.com/GabrielRF/RastreioBot)                       | Python     |                                                      |
+| [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)           | Python     | [site](https://serenata.ai)                          |
+| [Querido Diário](https://github.com/okfn-brasil/querido-diario)               | Python     | [site](https://queridodiario.ok.org.br)              |
+| [Speakerfight](https://github.com/luanfonceca/speakerfight)                   | Python     |                                                      |
+| [Dialetus](https://github.com/dialetus/dialetus-service)                      | Javascript |                                                      |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript |                                                      |
+| [Nullstack](https://github.com/nullstack/nullstack.github.io)                 | Javascript | [site](https://nullstack.app)                        |
+| [English Talking API](https://github.com/barbosamaatheus/english-talking-api) | Javascript | [discord](https://discord.gg/XTrKQ8w)                |
+| [cpn](https://github.com/vgeruso/cpn)                                         | Javascript |                                                      |
+
+<div id='license'></div>
 
 ## Licença
 
-[MIT](/LICENSE) &copy; BackEndBR
+Licenciado sob [MIT](LICENSE).
 
-## Repositórios do Back-End Brasil
+<div id='contributing'></div>
 
-- [Fórum](https://github.com/backend-br/forum)
-- [Eventos](https://github.com/backend-br/eventos)
-- [Vagas](https://github.com/backend-br/vagas)
-- [Poste mais!](https://github.com/backend-br/poste-mais)
+## Contribuindo
+
+Siga as [diretrizes de contribuição](CONTRIBUTING.md) para contribuir com o projeto.
