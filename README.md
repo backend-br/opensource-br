@@ -6,15 +6,6 @@
 
 # Open-source BR
 
-* [Overview](#overview)
-* [Projetos](#projects)
-* [Licença](#license)
-* [Contribuindo](#contributing)
-
-<div id='overview'></div>
-
-## Overview
-
 Espaço para divulgação de projetos open-source brasileiros.
 
 <div id='projects'></div>
