@@ -14,8 +14,8 @@ Espaço para divulgação de projetos open-source brasileiros.
 
 | Nome                                                                          | Linguagem  | Outros links                                         |
 |-------------------------------------------------------------------------------|------------|------------------------------------------------------|
-| [weather-api](https://github.com/robertoduessmann/weather-api)                | Go         |                                                      |
-| [gopix](https://github.com/souzawagner/gopix)                                 | Go         |                                                      |
+| [Weather API](https://github.com/robertoduessmann/weather-api)                | Go         |                                                      |
+| [Gerador Pix](https://github.com/souzawagner/gopix)                           | Go         |                                                      |
 | [Brasilino](https://github.com/OtacilioN/Brasilino)                           | C++        |                                                      |
 | [i-Educar](https://github.com/portabilis/i-educar)                            | PHP        |                                                      |
 | [Tainacan](https://github.com/tainacan/tainacan)                              | PHP        |                                                      |
@@ -30,10 +30,11 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Querido Diário](https://github.com/okfn-brasil/querido-diario)               | Python     | [site](https://queridodiario.ok.org.br)              |
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                   | Python     |                                                      |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                      | Javascript |                                                      |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript |                                                      |
+| [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript |                                                      |
 | [Nullstack](https://github.com/nullstack/nullstack.github.io)                 | Javascript | [site](https://nullstack.app)                        |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api) | Javascript | [discord](https://discord.gg/XTrKQ8w)                |
-| [cpn](https://github.com/vgeruso/cpn)                                         | Javascript |                                                      |
+| [CPN](https://github.com/vgeruso/cpn)                                         | Javascript |                                                      |
+| [Comunidades tech](https://github.com/impulsoteam/comunidadestech)            | Javascript | [site](https://comunidades.tech)                     |
 
 <div id='license'></div>
 
