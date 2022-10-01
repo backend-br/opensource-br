@@ -29,6 +29,8 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)           | Python     | [site](https://serenata.ai)                          |
 | [Querido Diário](https://github.com/okfn-brasil/querido-diario)               | Python     | [site](https://queridodiario.ok.org.br)              |
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                   | Python     |                                                      |
+| [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                   | Markdown   |                                                      |
+| [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)           | Markdown   |                                                      |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                      | Javascript |                                                      |
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript |                                                      |
 | [Nullstack](https://github.com/nullstack/nullstack.github.io)                 | Javascript | [site](https://nullstack.app)                        |
