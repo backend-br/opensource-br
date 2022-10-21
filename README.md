@@ -17,6 +17,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Weather API](https://github.com/robertoduessmann/weather-api)                | Go         |                                                                     |
 | [Gerador Pix](https://github.com/souzawagner/gopix)                           | Go         |                                                                     |
 | [Brasilino](https://github.com/OtacilioN/Brasilino)                           | C++        |                                                                     |
+| [Corcel](https://github.com/corcel/corcel)                                    | PHP        |                                                                     |
 | [i-Educar](https://github.com/portabilis/i-educar)                            | PHP        |                                                                     |
 | [Tainacan](https://github.com/tainacan/tainacan)                              | PHP        |                                                                     |
 | [Validation](https://github.com/Respect/Validation)                           | PHP        | [documentação](https://respect-validation.readthedocs.io/en/latest) |
