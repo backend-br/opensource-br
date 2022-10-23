@@ -34,6 +34,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                   | Python     |                                                                     |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                   | Markdown   |                                                                     |
 | [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)           | Markdown   |                                                                     |
+| [Docz](https://github.com/doczjs/docz)                                        | Javascript | [site](https://www.docz.site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                      | Javascript |                                                                     |
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript |                                                                     |
 | [Nullstack](https://github.com/nullstack/nullstack.github.io)                 | Javascript | [site](https://nullstack.app)                                       |
