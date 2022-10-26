@@ -29,18 +29,19 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Kamu](https://github.com/ayr-ton/kamu)                                       | Python     |                                                                     |
 | [Bottery](https://github.com/rougeth/bottery)                                 | Python     |                                                                     |
 | [RastreioBot](https://github.com/GabrielRF/RastreioBot)                       | Python     |                                                                     |
-| [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)           | Python     | [site](https://serenata.ai)                                         |
-| [Querido Diário](https://github.com/okfn-brasil/querido-diario)               | Python     | [site](https://queridodiario.ok.org.br)                             |
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                   | Python     |                                                                     |
+| [Querido Diário](https://github.com/okfn-brasil/querido-diario)               | Python     | [site](https://queridodiario.ok.org.br)                             |
+| [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)           | Python     | [site](https://serenata.ai)                                         |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                   | Markdown   |                                                                     |
 | [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)           | Markdown   |                                                                     |
+| [CPN](https://github.com/vgeruso/cpn)                                         | Javascript |                                                                     |
 | [Docz](https://github.com/doczjs/docz)                                        | Javascript | [site](https://www.docz.site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                      | Javascript |                                                                     |
-| [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript |                                                                     |
+| [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                          | Javascript | [site](https://brasilapi.com.br)                                    |
 | [Nullstack](https://github.com/nullstack/nullstack.github.io)                 | Javascript | [site](https://nullstack.app)                                       |
-| [English Talking API](https://github.com/barbosamaatheus/english-talking-api) | Javascript | [discord](https://discord.gg/XTrKQ8w)                               |
-| [CPN](https://github.com/vgeruso/cpn)                                         | Javascript |                                                                     |
+| [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript |                                                                     |
 | [Comunidades tech](https://github.com/impulsoteam/comunidadestech)            | Javascript | [site](https://comunidades.tech)                                    |
+| [English Talking API](https://github.com/barbosamaatheus/english-talking-api) | Javascript | [discord](https://discord.gg/XTrKQ8w)                               |
 
 <div id='license'></div>
 
