@@ -28,6 +28,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin     |                                                                     |
 | [Kamu](https://github.com/ayr-ton/kamu)                                       | Python     |                                                                     |
 | [Bottery](https://github.com/rougeth/bottery)                                 | Python     |                                                                     |
+| [Dateutil](https://github.com/dateutil/dateutil)                              | Python     |                                                                     |
 | [RastreioBot](https://github.com/GabrielRF/RastreioBot)                       | Python     |                                                                     |
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                   | Python     |                                                                     |
 | [Querido Diário](https://github.com/okfn-brasil/querido-diario)               | Python     | [site](https://queridodiario.ok.org.br)                             |
