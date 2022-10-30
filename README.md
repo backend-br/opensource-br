@@ -33,6 +33,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                   | Python               |                                                                     |
 | [Querido Diário](https://github.com/okfn-brasil/querido-diario)               | Python               | [site](https://queridodiario.ok.org.br)                             |
 | [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)           | Python               | [site](https://serenata.ai)                                         |
+| [Municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)   | Python               |                                                                     |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                   | Markdown             |                                                                     |
 | [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)           | Markdown             |                                                                     |
 | [CPN](https://github.com/vgeruso/cpn)                                         | Javascript           |                                                                     |
