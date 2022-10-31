@@ -27,6 +27,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Potigol](https://github.com/potigol/potigol)                                 | Scala                |                                                                     |
 | [Kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin               |                                                                     |
 | [Kamu](https://github.com/ayr-ton/kamu)                                       | Python               |                                                                     |
+| [fklearn](https://github.com/nubank/fklearn)                                  | Python               |                                                                     |
 | [Bottery](https://github.com/rougeth/bottery)                                 | Python               |                                                                     |
 | [Dateutil](https://github.com/dateutil/dateutil)                              | Python               |                                                                     |
 | [RastreioBot](https://github.com/GabrielRF/RastreioBot)                       | Python               |                                                                     |
