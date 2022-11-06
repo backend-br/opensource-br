@@ -17,6 +17,8 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Weather API](https://github.com/robertoduessmann/weather-api)                | Go                   |                                                                     |
 | [Gerador Pix](https://github.com/souzawagner/gopix)                           | Go                   |                                                                     |
 | [Brasilino](https://github.com/OtacilioN/Brasilino)                           | C++                  |                                                                     |
+| [BancosBrasileiros](https://github.com/GuiBranco/BancosBrasileiros)           | C#                   | [documentação](https://guibranco.github.io/BancosBrasileiros)       |
+| [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                     | C#                   | [documentação](https://guibranco.github.io/CrispyWaffle)            |
 | [Corcel](https://github.com/corcel/corcel)                                    | PHP                  |                                                                     |
 | [i-Educar](https://github.com/portabilis/i-educar)                            | PHP                  |                                                                     |
 | [Tainacan](https://github.com/tainacan/tainacan)                              | PHP                  |                                                                     |
