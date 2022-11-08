@@ -48,6 +48,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                      | Javascript           |                                                                     |
 | [Comunidades tech](https://github.com/impulsoteam/comunidadestech)            | Javascript           | [site](https://comunidades.tech)                                    |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api) | Javascript           | [discord](https://discord.gg/XTrKQ8w)                               |
+| [Bot WhatsApp](https://github.com/caioagiani/whatsapp-bot)                    | TypeScript           |                                                                     |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                | Múltiplas linguagens |                                                                     |
 
 <div id='license'></div>
