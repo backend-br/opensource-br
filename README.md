@@ -26,6 +26,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Tiny Blocks](https://github.com/tiny-blocks)                                 | PHP                  |                                                                     |
 | [Turing](https://github.com/openturing/turing)                                | Java                 | [documentação](https://openviglet.github.io/turing)                 |
 | [Vecchio](https://github.com/openviglet/vecchio)                              | Java                 |                                                                     |
+| [Zim](https://github.com/zimfw/zimfw)                                         | Shell                | [site](https://zimfw.sh)                                            |
 | [Potigol](https://github.com/potigol/potigol)                                 | Scala                |                                                                     |
 | [Kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin               |                                                                     |
 | [Kamu](https://github.com/ayr-ton/kamu)                                       | Python               |                                                                     |
