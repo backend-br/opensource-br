@@ -14,6 +14,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 
 | Nome                                                                          | Linguagem            | Outros links                                                        |
 |-------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------|
+| [GoCity](https://github.com/rodrigo-brito/gocity)                             | Go                   | [site](https://go-city.github.io/#/github.com/rodrigo-brito/gocity) |
 | [Weather API](https://github.com/robertoduessmann/weather-api)                | Go                   |                                                                     |
 | [Gerador Pix](https://github.com/souzawagner/gopix)                           | Go                   |                                                                     |
 | [Brasilino](https://github.com/OtacilioN/Brasilino)                           | C++                  |                                                                     |
