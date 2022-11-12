@@ -52,6 +52,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Comunidades tech](https://github.com/impulsoteam/comunidadestech)            | Javascript           | [site](https://comunidades.tech)                                    |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api) | Javascript           | [discord](https://discord.gg/XTrKQ8w)                               |
 | [Bot WhatsApp](https://github.com/caioagiani/whatsapp-bot)                    | TypeScript           |                                                                     |
+| [Concurrently](https://github.com/open-cli-tools/concurrently)                | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                   |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                | Múltiplas linguagens |                                                                     |
 
 <div id='license'></div>
