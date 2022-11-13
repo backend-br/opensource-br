@@ -42,6 +42,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)   | Python               |                                                                     |
 | [4Noobs](https://github.com/he4rt/4noobs)                                     | Markdown             |                                                                     |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                   | Markdown             |                                                                     |
+| [Game datasets](https://github.com/leomaurodesenv/game-datasets)              | Markdown             |                                                                     |
 | [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)           | Markdown             |                                                                     |
 | [CPN](https://github.com/vgeruso/cpn)                                         | Javascript           |                                                                     |
 | [Docz](https://github.com/doczjs/docz)                                        | Javascript           | [site](https://www.docz.site)                                       |
