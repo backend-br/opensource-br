@@ -41,6 +41,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)           | Python               | [site](https://serenata.ai)                                         |
 | [Municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)   | Python               |                                                                     |
 | [4Noobs](https://github.com/he4rt/4noobs)                                     | Markdown             |                                                                     |
+| [Desafios](https://github.com/backend-br/desafios)                            | Markdown             |                                                                     |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                   | Markdown             |                                                                     |
 | [Game datasets](https://github.com/leomaurodesenv/game-datasets)              | Markdown             |                                                                     |
 | [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)           | Markdown             |                                                                     |
