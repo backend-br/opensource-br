@@ -17,6 +17,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [GoCity](https://github.com/rodrigo-brito/gocity)                             | Go                   | [site](https://go-city.github.io/#/github.com/rodrigo-brito/gocity) |
 | [Weather API](https://github.com/robertoduessmann/weather-api)                | Go                   |                                                                     |
 | [Gerador Pix](https://github.com/souzawagner/gopix)                           | Go                   |                                                                     |
+| [Matplot++](https://github.com/alandefreitas/matplotplusplus)                 | C++                  | [documentação](https://alandefreitas.github.io/matplotplusplus)     |
 | [Brasilino](https://github.com/OtacilioN/Brasilino)                           | C++                  |                                                                     |
 | [BancosBrasileiros](https://github.com/GuiBranco/BancosBrasileiros)           | C#                   | [documentação](https://guibranco.github.io/BancosBrasileiros)       |
 | [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                     | C#                   | [documentação](https://guibranco.github.io/CrispyWaffle)            |
