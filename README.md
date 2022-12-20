@@ -33,6 +33,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Potigol](https://github.com/potigol/potigol)                                 | Scala                |                                                                     |
 | [Kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin               |                                                                     |
 | [Kamu](https://github.com/ayr-ton/kamu)                                       | Python               |                                                                     |
+| [Lespy](https://github.com/natanfeitosa/lespy) | Python | [Pypi](https://pypi.org/project/Lespy/) |
 | [fklearn](https://github.com/nubank/fklearn)                                  | Python               |                                                                     |
 | [Bottery](https://github.com/rougeth/bottery)                                 | Python               |                                                                     |
 | [Pipconf](https://github.com/jjpaulo2/pipconf)                                | Python               | [issues](https://github.com/jjpaulo2/pipconf/issues)                |
