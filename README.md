@@ -27,13 +27,14 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Tainacan](https://github.com/tainacan/tainacan)                              | PHP                  |                                                                     |
 | [Validation](https://github.com/Respect/Validation)                           | PHP                  | [documentação](https://respect-validation.readthedocs.io/en/latest) |
 | [Tiny Blocks](https://github.com/tiny-blocks)                                 | PHP                  |                                                                     |
+| [py2rs](https://github.com/rochacbruno/py2rs)                                 | Rust                 |                                                                     |
 | [Turing](https://github.com/openturing/turing)                                | Java                 | [documentação](https://openviglet.github.io/turing)                 |
 | [Vecchio](https://github.com/openviglet/vecchio)                              | Java                 |                                                                     |
 | [Zim](https://github.com/zimfw/zimfw)                                         | Shell                | [site](https://zimfw.sh)                                            |
 | [Potigol](https://github.com/potigol/potigol)                                 | Scala                |                                                                     |
 | [Kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin               |                                                                     |
 | [Kamu](https://github.com/ayr-ton/kamu)                                       | Python               |                                                                     |
-| [Lespy](https://github.com/natanfeitosa/lespy) | Python | [Pypi](https://pypi.org/project/Lespy/) |
+| [Lespy](https://github.com/natanfeitosa/lespy)                                | Python               | [Pypi](https://pypi.org/project/Lespy/)                             |
 | [fklearn](https://github.com/nubank/fklearn)                                  | Python               |                                                                     |
 | [Bottery](https://github.com/rougeth/bottery)                                 | Python               |                                                                     |
 | [Pipconf](https://github.com/jjpaulo2/pipconf)                                | Python               | [issues](https://github.com/jjpaulo2/pipconf/issues)                |
