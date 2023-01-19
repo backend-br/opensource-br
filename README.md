@@ -61,6 +61,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Bot WhatsApp](https://github.com/caioagiani/whatsapp-bot)                    | TypeScript           |                                                                     |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                   |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                | Múltiplas linguagens |                                                                     |
+| [AtomicReact](https://github.com/AtomicReact/AtomicReact)                     | Javascript           | [documentação](https://atomicreact.js.org)                          |
 
 <div id='license'></div>
 
