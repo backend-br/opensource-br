@@ -33,7 +33,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Zim](https://github.com/zimfw/zimfw)                                         | Shell                | [site](https://zimfw.sh)                                            |
 | [Potigol](https://github.com/potigol/potigol)                                 | Scala                |                                                                     |
 | [Kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin               |                                                                     |
-| [webBudget](https://github.com/web-budget)                  | Kotlin               | [site](https://webbudget.com.br/) - [roadmap](https://github.com/orgs/web-budget/projects/3)
+| [webBudget](https://github.com/web-budget)                  | Kotlin               | [site](https://webbudget.com.br/) - [roadmap](https://github.com/orgs/web-budget/projects/3)                                                                   |
 | [Vagas pra mim](https://github.com/douglasdcm/search-jobs)                                 | Python               | [Website](https://vagaspramim.onrender.com)                                                                   |
 | [ToTemp](https://github.com/eddyyxxyy/ToTemp)                                 | Python               | [Pypi](https://pypi.org/project/totemp/)                            |
 | [Kamu](https://github.com/ayr-ton/kamu)                                       | Python               |                                                                     |
