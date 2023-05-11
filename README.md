@@ -46,6 +46,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Querido Diário](https://github.com/okfn-brasil/querido-diario)               | Python               | [site](https://queridodiario.ok.org.br)                             |
 | [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)           | Python               | [site](https://serenata.ai)                                         |
 | [Municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)   | Python               |                                                                     |
+| [LattesIdentifier](https://github.com/gogoncalves/lattes-identifier-service)   | Python               |                                                                     |
 | [4Noobs](https://github.com/he4rt/4noobs)                                     | Markdown             |                                                                     |
 | [Desafios](https://github.com/backend-br/desafios)                            | Markdown             |                                                                     |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                   | Markdown             |                                                                     |
