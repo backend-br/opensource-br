@@ -7,7 +7,7 @@ on:
 
 permissions:
   issues: write
-  contents: write
+  contents: read
 
 jobs:
   link-checker:
