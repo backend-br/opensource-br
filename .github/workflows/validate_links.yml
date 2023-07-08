@@ -10,20 +10,19 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  linkChecker:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.8.0
+
+      - name: Create issue
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
         with:
-          ruby-version: 3.0
-
-      - name: Install bundle dependencies
-        run: bundle install
-
-      - name: Run link validation
-        run: bundle exec awesome_bot README.md --allow-redirect --allow-ssl
+          title: Link checker report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
