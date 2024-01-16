@@ -67,7 +67,8 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Bot WhatsApp](https://github.com/caioagiani/whatsapp-bot)                    | TypeScript           |                                                                                              |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                                            |
 | [AtomicReact](https://github.com/AtomicReact/AtomicReact)                     | Javascript           | [documentação](https://atomicreact.js.org)                                                   |
-| [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                | Múltiplas linguagens |                                                                                              |
+| [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                | Múltiplas linguagens |
+| [PythonREST](https://github.com/seven-technologies-cloud/pythonrest)                     | Python           | [documentação](https://readthedocs.org/projects/pythonrest/) [site](https://pythonrest.seventechnologies.cloud/pt)                                                                                                 |
 
 <div id='license'></div>
 
