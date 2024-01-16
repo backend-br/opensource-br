@@ -15,7 +15,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | Nome                                                                          | Linguagem            | Outros links                                                                                 |
 |-------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------|
 | [HardInfo](https://github.com/lpereira/hardinfo)                              | C                    |                                                                                              |
-| [BancosBrasileiros](https://github.com/GuiBranco/BancosBrasileiros)           | C#                   | [documentação](https://guibranco.github.io/BancosBrasileiros)                                |
+| [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)          | C#                   | [documentação](https://guibranco.github.io/BancosBrasileiros)                                |
 | [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                     | C#                   | [documentação](https://guibranco.github.io/CrispyWaffle)                                     |
 | [GoCity](https://github.com/rodrigo-brito/gocity)                             | Go                   | [site](https://go-city.github.io/#/github.com/rodrigo-brito/gocity)                          |
 | [Weather API](https://github.com/robertoduessmann/weather-api)                | Go                   |                                                                                              |
@@ -27,12 +27,14 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Tainacan](https://github.com/tainacan/tainacan)                              | PHP                  |                                                                                              |
 | [Validation](https://github.com/Respect/Validation)                           | PHP                  | [documentação](https://respect-validation.readthedocs.io/en/latest)                          |
 | [Tiny Blocks](https://github.com/tiny-blocks)                                 | PHP                  |                                                                                              |
+| [PHP4Noobs](https://github.com/DanielHe4rt/php4noobs)                         | PHP                  |                                                                                              |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                 | Rust                 |                                                                                              |
 | [Turing](https://github.com/openturing/turing)                                | Java                 | [documentação](https://openviglet.github.io/turing)                                          |
 | [Vecchio](https://github.com/openviglet/vecchio)                              | Java                 |                                                                                              |
+| [Java4Noobs](https://github.com/paulorievrs/java4noobs)                       | Java                 |                                                                                              |
 | [Zim](https://github.com/zimfw/zimfw)                                         | Shell                | [site](https://zimfw.sh)                                                                     |
 | [Potigol](https://github.com/potigol/potigol)                                 | Scala                |                                                                                              |
-| [Kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin               |                                                                                              |
+| [Kotlin4Noobs](https://github.com/gustavofreze/kotlin4noobs)                  | Kotlin               |                                                                                              |
 | [webBudget](https://github.com/web-budget)                                    | Kotlin               | [site](https://webbudget.com.br/) - [roadmap](https://github.com/orgs/web-budget/projects/3) |
 | [Vagas pra mim](https://github.com/douglasdcm/search-jobs)                    | Python               | [Website](https://vagaspramim.onrender.com)                                                  |
 | [ToTemp](https://github.com/eddyyxxyy/ToTemp)                                 | Python               | [Pypi](https://pypi.org/project/totemp/)                                                     |
