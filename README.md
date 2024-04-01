@@ -73,6 +73,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Mesh](https://github.com/ionited/mesh)                                                      | Javascript           | [npm](https://www.npmjs.com/package/@ionited/mesh)                                                                  |
 | [Bot WhatsApp](https://github.com/caioagiani/whatsapp-bot)                                   | TypeScript           |                                                                                                                     |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                               | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                                                                   |
+| [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)              | TypeScript           | [documentação](https://poku.io/docs)                                                                                |
 | [AtomicReact](https://github.com/AtomicReact/AtomicReact)                                    | Javascript           | [documentação](https://atomicreact.js.org)                                                                          |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
 
