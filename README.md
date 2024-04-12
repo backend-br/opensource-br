@@ -77,6 +77,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [AtomicReact](https://github.com/AtomicReact/AtomicReact)                                    | Javascript           | [documentação](https://atomicreact.js.org)                                                                          |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
 | [Board](https://github.com/lucasnuic/board)                                                  | Múltiplas linguagens |
+| [krsp](https://github.com/lucasnuic/krsp)                                                    | Python |
 
 <div id='license'></div>
 
