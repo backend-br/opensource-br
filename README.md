@@ -30,6 +30,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [PHP4Noobs](https://github.com/DanielHe4rt/php4noobs)                                        | PHP                  |                                                                                                                     |
 | [Hyperf Metric](https://github.com/opencodeco/hyperf-metric)                                 | PHP                  |                                                                                                                     |
 | [Hyperf Tracer](https://github.com/opencodeco/hyperf-tracer)                                 | PHP                  |                                                                                                                     |
+| [Open Boleto](https://github.com/openboleto/openboleto)                                      | PHP                  |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                                | Rust                 |                                                                                                                     |
 | [Turing](https://github.com/openturing/turing)                                               | Java                 | [documentação](https://openviglet.github.io/turing)                                                                 |
 | [Vecchio](https://github.com/openviglet/vecchio)                                             | Java                 |                                                                                                                     |
@@ -55,6 +56,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [LattesIdentifier](https://github.com/gogoncalves/lattes-identifier-service)                 | Python               |                                                                                                                     |
 | [SlackBot: No CPF](https://github.com/marcieltorres/slack-bot-no-cpf)                        | Python               |                                                                                                                     |
 | [PyFlunt](https://github.com/fazedordecodigo/pyflunt)                                        | Python               | [Pypi](https://pypi.org/project/flunt/)                                                                             |
+| [krsp](https://github.com/lucasnuic/krsp)                                                    | Python               |
 | [4Noobs](https://github.com/he4rt/4noobs)                                                    | Markdown             |                                                                                                                     |
 | [Desafios](https://github.com/backend-br/desafios)                                           | Markdown             |                                                                                                                     |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                                  | Markdown             |                                                                                                                     |
@@ -77,8 +79,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [AtomicReact](https://github.com/AtomicReact/AtomicReact)                                    | Javascript           | [documentação](https://atomicreact.js.org)                                                                          |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
 | [Board](https://github.com/lucasnuic/board)                                                  | Múltiplas linguagens |
-| [krsp](https://github.com/lucasnuic/krsp)                                                    | Python               |
-| [Open Boleto](https://github.com/openboleto/openboleto)                                      | PHP                  |      
 
 <div id='license'></div>
 
