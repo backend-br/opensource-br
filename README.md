@@ -79,6 +79,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [AtomicReact](https://github.com/AtomicReact/AtomicReact)                                    | Javascript           | [documentação](https://atomicreact.js.org)                                                                          |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
 | [Board](https://github.com/lucasnuic/board)                                                  | Múltiplas linguagens |
+| [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
 | [DuzeruLinux](https://github.com/duzerulinux)                                                | Múltiplas linguagens | 
 
 <div id='license'></div>
