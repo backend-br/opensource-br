@@ -81,6 +81,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Board](https://github.com/lucasnuic/board)                                                  | Múltiplas linguagens |
 | [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
 | [DuzeruLinux](https://github.com/duzerulinux)                                                | Múltiplas linguagens | 
+| [BrinoIDE](https://github.com/BrinoOficial/BrinoIDE)                                         | Python               |
 
 <div id='license'></div>
 
