@@ -57,6 +57,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [SlackBot: No CPF](https://github.com/marcieltorres/slack-bot-no-cpf)                        | Python               |                                                                                                                     |
 | [PyFlunt](https://github.com/fazedordecodigo/pyflunt)                                        | Python               | [Pypi](https://pypi.org/project/flunt/)                                                                             |
 | [krsp](https://github.com/lucasnuic/krsp)                                                    | Python               |
+| [BrinoIDE](https://github.com/BrinoOficial/BrinoIDE)                                         | Python               |
 | [4Noobs](https://github.com/he4rt/4noobs)                                                    | Markdown             |                                                                                                                     |
 | [Desafios](https://github.com/backend-br/desafios)                                           | Markdown             |                                                                                                                     |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                                  | Markdown             |                                                                                                                     |
@@ -81,7 +82,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Board](https://github.com/lucasnuic/board)                                                  | Múltiplas linguagens |
 | [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
 | [DuzeruLinux](https://github.com/duzerulinux)                                                | Múltiplas linguagens | 
-| [BrinoIDE](https://github.com/BrinoOficial/BrinoIDE)                                         | Python               |
 
 <div id='license'></div>
 
