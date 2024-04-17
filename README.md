@@ -56,7 +56,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [LattesIdentifier](https://github.com/gogoncalves/lattes-identifier-service)                 | Python               |                                                                                                                     |
 | [SlackBot: No CPF](https://github.com/marcieltorres/slack-bot-no-cpf)                        | Python               |                                                                                                                     |
 | [PyFlunt](https://github.com/fazedordecodigo/pyflunt)                                        | Python               | [Pypi](https://pypi.org/project/flunt/)                                                                             |
-| [krsp](https://github.com/lucasnuic/krsp)                                                    | Python               |
 | [BrinoIDE](https://github.com/BrinoOficial/BrinoIDE)                                         | Python               |
 | [4Noobs](https://github.com/he4rt/4noobs)                                                    | Markdown             |                                                                                                                     |
 | [Desafios](https://github.com/backend-br/desafios)                                           | Markdown             |                                                                                                                     |
@@ -79,7 +78,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)              | TypeScript           | [documentação](https://poku.io/docs)                                                                                |
 | [AtomicReact](https://github.com/AtomicReact/AtomicReact)                                    | Javascript           | [documentação](https://atomicreact.js.org)                                                                          |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
-| [Board](https://github.com/lucasnuic/board)                                                  | Múltiplas linguagens |
 | [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
 | [DuzeruLinux](https://github.com/duzerulinux)                                                | Múltiplas linguagens | 
 
