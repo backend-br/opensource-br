@@ -77,6 +77,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                               | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                                                                   |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)              | TypeScript           | [documentação](https://poku.io/docs)                                                                                |
 | [AtomicReact](https://github.com/AtomicReact/AtomicReact)                                    | Javascript           | [documentação](https://atomicreact.js.org)                                                                          |
+| [Delegua](https://github.com/DesignLiquido/delegua)                                          | TypeScript           |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
 | [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
 | [DuzeruLinux](https://github.com/duzerulinux)                                                | Múltiplas linguagens | 
