@@ -64,6 +64,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)                          | Markdown             |                                                                                                                     |
 | [Remote jobs Brazil](https://github.com/lerrua/remote-jobs-brazil)                           | Markdown             |                                                                                                                     |
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) | Markdown             |                                                                                                                     |
+| [Software Legado](https://github.com/php-brasil/software-legado)                             | Markdown             | 
 | [CPN](https://github.com/vgeruso/cpn)                                                        | Javascript           |                                                                                                                     |
 | [Docz](https://github.com/doczjs/docz)                                                       | Javascript           | [site](https://www.docz.site)                                                                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                     | Javascript           |                                                                                                                     |
@@ -82,7 +83,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
 | [DuzeruLinux](https://github.com/duzerulinux)                                                | Múltiplas linguagens | 
 | [VisualG](https://sourceforge.net/projects/visualg30/files/)                                 | Múltiplas linguagens | [site](https://antonionicolodi.blogspot.com/2015/06/visualg-30-revisao-4-em-25062015.html)
-| [Software Legado](https://github.com/php-brasil/software-legado)                             | Múltiplas linguagens | 
 
 <div id='license'></div>
 
