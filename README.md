@@ -73,10 +73,11 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Comunidades tech](https://github.com/impulsoteam/comunidadestech)                           | Javascript           | [site](https://comunidades.tech)                                                                                    |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                | Javascript           | [discord](https://discord.gg/XTrKQ8w)                                                                               |
 | [Mesh](https://github.com/ionited/mesh)                                                      | Javascript           | [npm](https://www.npmjs.com/package/@ionited/mesh)                                                                  |
+| [AtomicReact](https://github.com/AtomicReact/AtomicReact)                                    | Javascript           | [documentação](https://atomicreact.js.org)                                                                          |
 | [Bot WhatsApp](https://github.com/caioagiani/whatsapp-bot)                                   | TypeScript           |                                                                                                                     |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                               | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                                                                   |
+| [Delegua](https://github.com/DesignLiquido/delegua)                                          | TypeScript           |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)              | TypeScript           | [documentação](https://poku.io/docs)                                                                                |
-| [AtomicReact](https://github.com/AtomicReact/AtomicReact)                                    | Javascript           | [documentação](https://atomicreact.js.org)                                                                          |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
 | [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
 | [DuzeruLinux](https://github.com/duzerulinux)                                                | Múltiplas linguagens | 
