@@ -80,6 +80,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
 | [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
 | [DuzeruLinux](https://github.com/duzerulinux)                                                | Múltiplas linguagens | 
+| [VisualG](https://sourceforge.net/projects/visualg30/files/)                                 | Múltiplas linguagens | [site](https://antonionicolodi.blogspot.com/2015/06/visualg-30-revisao-4-em-25062015.html)
 
 <div id='license'></div>
 
