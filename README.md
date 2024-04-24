@@ -67,7 +67,8 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Remote jobs Brazil](https://github.com/lerrua/remote-jobs-brazil)                           | Markdown             |                                                                                                                     |
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) | Markdown             |                                                                                                                     |
 | [Software Legado](https://github.com/php-brasil/software-legado)                             | Markdown             | 
-[Awesome Finance](https://github.com/Dev-ES/awesome-finance)                                   | Markdown             |
+| [Awesome Finance](https://github.com/Dev-ES/awesome-finance)                                 | Markdown             |
+| [Design Patterns for Humans]( https://github.com/design-patterns-for-humans/brazilian-portuguese) |Markdown         |
 | [CPN](https://github.com/vgeruso/cpn)                                                        | Javascript           |                                                                                                                     |
 | [Docz](https://github.com/doczjs/docz)                                                       | Javascript           | [site](https://www.docz.site)                                                                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                     | Javascript           |                                                                                                                     |
