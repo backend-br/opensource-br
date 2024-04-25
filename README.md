@@ -82,6 +82,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Bot WhatsApp](https://github.com/caioagiani/whatsapp-bot)                                   | TypeScript           |                                                                                                                     |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                               | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                                                                   |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                          | TypeScript           |
+| [Brazilian Util](https://github.com/brazilian-utils/brazilian-utils)                         | TypeScript           |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)              | TypeScript           | [documentação](https://poku.io/docs)                                                                                |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                               | Múltiplas linguagens |
 | [BigLinux](https://github.com/biglinux)                                                      | Múltiplas linguagens | 
