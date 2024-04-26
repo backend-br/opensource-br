@@ -59,6 +59,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [SlackBot: No CPF](https://github.com/marcieltorres/slack-bot-no-cpf)                        | Python               |                                                                                                                     |
 | [PyFlunt](https://github.com/fazedordecodigo/pyflunt)                                        | Python               | [Pypi](https://pypi.org/project/flunt/)                                                                             |
 | [BrinoIDE](https://github.com/BrinoOficial/BrinoIDE)                                         | Python               |
+| [CyberSecurity](https://github.com/VictorGM01/cybersecurity)                                 | Python               |
 | [4Noobs](https://github.com/he4rt/4noobs)                                                    | Markdown             |                                                                                                                     |
 | [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)     | Markdown             | [site](https://githubbrasil.com/en/)
 | [Desafios](https://github.com/backend-br/desafios)                                           | Markdown             |                                                                                                                     |
