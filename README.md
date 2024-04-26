@@ -70,7 +70,8 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Software Legado](https://github.com/php-brasil/software-legado)                             | Markdown             | 
 | [Awesome Finance](https://github.com/Dev-ES/awesome-finance)                                 | Markdown             |
 | [Design Patterns for Humans]( https://github.com/design-patterns-for-humans/brazilian-portuguese) |Markdown         |
-| [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                            | Markdown             |
+| [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                    | Markdown             |
+| [Open School BR](https://github.com/openschoolbr/openschoolbr.github.io)                     | Markdown             |
 | [CPN](https://github.com/vgeruso/cpn)                                                        | Javascript           |                                                                                                                     |
 | [Docz](https://github.com/doczjs/docz)                                                       | Javascript           | [site](https://www.docz.site)                                                                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                     | Javascript           |                                                                                                                     |
