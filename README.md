@@ -69,7 +69,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) | Markdown             |                                                                                                                     |
 | [Software Legado](https://github.com/php-brasil/software-legado)                             | Markdown             | 
 | [Awesome Finance](https://github.com/Dev-ES/awesome-finance)                                 | Markdown             |
-| [Open School BR](https://github.com/openschoolbr/openschoolbr.github.io)                     | Markdown             |
+| [Open School BR](https://github.com/openschoolbr/sobre)                     | Markdown             |
 | [Design Patterns for Humans]( https://github.com/design-patterns-for-humans/brazilian-portuguese) |Markdown         |
 | [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                            | Markdown             |
 | [CPN](https://github.com/vgeruso/cpn)                                                        | Javascript           |                                                                                                                     |
