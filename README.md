@@ -14,6 +14,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 
 | Nome                                                                                         | Linguagem            | Outros links                                                                                                        |
 |----------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------------------|
+| [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development)                              | Assembly             | 
 | [HardInfo](https://github.com/lpereira/hardinfo)                                             | C                    |                                                                                                                     |
 [My Programming-language](https://github.com/williamars/my-programming-language)               | C                    |
 | [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                         | C#                   | [documentação](https://guibranco.github.io/BancosBrasileiros)                                                       |
