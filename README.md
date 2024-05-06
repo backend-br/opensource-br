@@ -61,6 +61,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [PyFlunt](https://github.com/fazedordecodigo/pyflunt)                                        | Python               | [Pypi](https://pypi.org/project/flunt/)                                                                             |
 | [BrinoIDE](https://github.com/BrinoOficial/BrinoIDE)                                         | Python               |
 | [PyPicPay](https://github.com/hudsonbrendon/pypicpay)                                        | Python               |
+| [PyNubank](https://github.com/andreroggeri/pynubank)                                         | Python               | 
 | [4Noobs](https://github.com/he4rt/4noobs)                                                    | Markdown             |                                                                                                                     |
 | [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)     | Markdown             | [site](https://githubbrasil.com/en/)
 | [Desafios](https://github.com/backend-br/desafios)                                           | Markdown             |                                                                                                                     |
