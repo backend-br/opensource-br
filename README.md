@@ -76,6 +76,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Open School BR](https://github.com/openschoolbr/sobre)                     | Markdown             |
 | [Design Patterns for Humans]( https://github.com/design-patterns-for-humans/brazilian-portuguese) |Markdown         |
 | [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                            | Markdown             |
+| [ComandosLinuxTerminal](https://github.com/gdcodedev/ComandosLinuxTerminal)                  | Markdown             |
 | [CPN](https://github.com/vgeruso/cpn)                                                        | Javascript           |                                                                                                                     |
 | [Docz](https://github.com/doczjs/docz)                                                       | Javascript           | [site](https://www.docz.site)                                                                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                     | Javascript           |                                                                                                                     |
