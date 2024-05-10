@@ -46,6 +46,9 @@ GitHub, crie sua sugestão e forneça a informação a seguir:
 
 ### Desenvolvendo
 
+Adicione apenas projetos **open-source brasileiros**, que possuam o código-fonte público no GitHub, e um guia de como
+contribuir com o respectivo projeto.
+
 Para iniciar o desenvolvimento, você precisará seguir alguns passos:
 
 - Fork este repositório.
