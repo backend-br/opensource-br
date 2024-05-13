@@ -69,6 +69,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [BigLinux](https://github.com/biglinux)                                                          | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
 | [BrasilOpen](https://github.com/brasilopen/brasilopen)                                           | Múltiplas linguagens |
+| [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |
 
 <div id='license'></div>
 
