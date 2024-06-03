@@ -16,6 +16,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 |--------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------|
 | [HardInfo](https://github.com/lpereira/hardinfo)                                                 | C                    |                                                                     |
 | [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                             | C#                   | [documentação](https://guibranco.github.io/BancosBrasileiros)       |
+| [LITE-DB](https://github.com/mbdavid/LiteDB)                                                     | C#                   |
 | [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                                        | C#                   | [documentação](https://guibranco.github.io/CrispyWaffle)            |
 | [Weather API](https://github.com/robertoduessmann/weather-api)                                   | Go                   |                                                                     |
 | [Corcel](https://github.com/corcel/corcel)                                                       | PHP                  |                                                                     |
