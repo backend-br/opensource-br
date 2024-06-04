@@ -66,6 +66,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                   |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [documentação](https://poku.io/docs)                                |
+| [SOS-RS](https://github.com/SOS-RS/backend)                                                      | Typesript |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                                   | Múltiplas linguagens |                                                                     |
 | [BigLinux](https://github.com/biglinux)                                                          | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
