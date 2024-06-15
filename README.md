@@ -27,6 +27,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [PHP4Noobs](https://github.com/DanielHe4rt/php4noobs)                                            | PHP                  |                                                                     |
 | [Hyperf Metric](https://github.com/opencodeco/hyperf-metric)                                     | PHP                  |                                                                     |
 | [Hyperf Tracer](https://github.com/opencodeco/hyperf-tracer)                                     | PHP                  |                                                                     |
+| [Pancake](https://github.com/guibranco/pancake)                                                  | PHP                  | [documentação](https://guibranco.github.io/pancake)                 |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                                    | Rust                 |                                                                     |
 | [Turing](https://github.com/openturing/turing)                                                   | Java                 | [documentação](https://openviglet.github.io/turing)                 |
 | [Vecchio](https://github.com/openviglet/vecchio)                                                 | Java                 |                                                                     |
