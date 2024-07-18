@@ -58,7 +58,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Open School BR](https://github.com/openschoolbr/sobre)                                          | Markdown             |                                                                     |
 | [Design Patterns for Humans](https://github.com/design-patterns-for-humans/brazilian-portuguese) | Markdown             |                                                                     |
 | [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                        | Markdown             |                                                                     |
-| [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             |
+| [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [site](https://enegrecer-e37b3.firebaseapp.com/)
 | [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [site](https://www.docz.site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                         | Javascript           |                                                                     |
 | [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [site](https://brasilapi.com.br)                                    |
