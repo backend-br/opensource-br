@@ -16,7 +16,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 |--------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------|
 | [HardInfo](https://github.com/lpereira/hardinfo)                                                 | C                    |                                                                     |
 | [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                             | C#                   | [documentação](https://guibranco.github.io/BancosBrasileiros)       |
-| [LITE-DB](https://github.com/mbdavid/LiteDB)                                                     | C#                   |
+| [LITE-DB](https://github.com/mbdavid/LiteDB)                                                     | C#                   |                                                                     |
 | [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                                        | C#                   | [documentação](https://guibranco.github.io/CrispyWaffle)            |
 | [Weather API](https://github.com/robertoduessmann/weather-api)                                   | Go                   |                                                                     |
 | [Corcel](https://github.com/corcel/corcel)                                                       | PHP                  |                                                                     |
@@ -58,7 +58,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Open School BR](https://github.com/openschoolbr/sobre)                                          | Markdown             |                                                                     |
 | [Design Patterns for Humans](https://github.com/design-patterns-for-humans/brazilian-portuguese) | Markdown             |                                                                     |
 | [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                        | Markdown             |                                                                     |
-| [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [site](https://enegrecer-e37b3.firebaseapp.com/)
+| [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [site](https://enegrecer-e37b3.firebaseapp.com/)                    |
 | [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [site](https://www.docz.site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                         | Javascript           |                                                                     |
 | [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [site](https://brasilapi.com.br)                                    |
@@ -68,12 +68,12 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                   |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [documentação](https://poku.io/docs)                                |
-| [SOS-RS](https://github.com/SOS-RS/backend)                                                      | Typesript | [site](https://sos-rs.com/) [projeto](https://github.com/SOS-RS)
+| [SOS-RS](https://github.com/SOS-RS/backend)                                                      | Typesript            | [site](https://sos-rs.com/) [projeto](https://github.com/SOS-RS)    |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                                   | Múltiplas linguagens |                                                                     |
 | [BigLinux](https://github.com/biglinux)                                                          | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
-| [BrasilOpen](https://github.com/brasilopen/brasilopen)                                           | Múltiplas linguagens |
-| [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |
+| [BrasilOpen](https://github.com/brasilopen/brasilopen)                                           | Múltiplas linguagens |                                                                     |
+| [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |                                                                     |
 
 <div id='license'></div>
 
