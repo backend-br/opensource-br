@@ -59,6 +59,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Design Patterns for Humans](https://github.com/design-patterns-for-humans/brazilian-portuguese) | Markdown             |                                                                     |
 | [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                        | Markdown             |                                                                     |
 | [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [site](https://enegrecer-e37b3.firebaseapp.com/)                    |
+| [Perifacode](https://github.com/perifacode/conteudo-gratuito)                                    | Markdown             | [site](http://perifacode.com/) [comunidade](https://github.com/perifacode)                   |
 | [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [site](https://www.docz.site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                         | Javascript           |                                                                     |
 | [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [site](https://brasilapi.com.br)                                    |
