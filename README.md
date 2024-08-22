@@ -60,6 +60,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                        | Markdown             |                                                                     |
 | [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [site](https://enegrecer-e37b3.firebaseapp.com/)                    |
 | [Perifacode](https://github.com/perifacode/conteudo-gratuito)                                    | Markdown             | [site](http://perifacode.com/) [comunidade](https://github.com/perifacode)                   |
+| [Cypherpunksbr](https://github.com/cypherpunksbr/guia-pratico)                                   | Markdown             | [site](http://cypherpunks.com.br/) [comunidade](https://github.com/cypherpunksbr) |
 | [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [site](https://www.docz.site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                         | Javascript           |                                                                     |
 | [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [site](https://brasilapi.com.br)                                    |
