@@ -62,6 +62,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Perifacode](https://github.com/perifacode/conteudo-gratuito)                                    | Markdown             | [site](http://perifacode.com/) [comunidade](https://github.com/perifacode)                   |
 | [Cypherpunksbr](https://github.com/cypherpunksbr/guia-pratico)                                   | Markdown             | [site](http://cypherpunks.com.br/) [comunidade](https://github.com/cypherpunksbr) |
 | [DevEstrada](https://github.com/devnaestrada/devnaestrada.com.br)                                | Markdown             | [site](https://devnaestrada.com.br/) [comunidade](https://github.com/devnaestrada/)
+| [Pirata](https://github.com/piratas/gti)                                                         | Markdown             | [site](https://partidopirata.org/) [comunidade](https://github.com/piratas) |
 | [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [site](https://www.docz.site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                         | Javascript           |                                                                     |
 | [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [site](https://brasilapi.com.br)                                    |
