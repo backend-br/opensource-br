@@ -64,6 +64,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [DevEstrada](https://github.com/devnaestrada/devnaestrada.com.br)                                | Markdown             | [site](https://devnaestrada.com.br/) [comunidade](https://github.com/devnaestrada/)
 | [Pirata](https://github.com/piratas/gti)                                                         | Markdown             | [site](https://partidopirata.org/) [comunidade](https://github.com/piratas) |
 | [Lista Maravilhosa Open Source](https://github.com/camilatigre/listamaravilhosaopensource)       | Markdown             |                                                                     |
+| [Caravela HackerClub](https://github.com/caravelahc/projetos)                                    | Markdown             | [site](https://caravela.ufsc.br/) [comunidade](https://github.com/caravelahc/) |
 | [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [site](https://www.docz.site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                         | Javascript           |                                                                     |
 | [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [site](https://brasilapi.com.br)                                    |
