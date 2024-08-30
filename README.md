@@ -75,6 +75,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [documentação](https://poku.io/docs)                                |
 | [SOS-RS](https://github.com/SOS-RS/backend)                                                      | Typesript            | [site](https://sos-rs.com/) [projeto](https://github.com/SOS-RS)    |
+| [LXML-ETA](https://github.com/lexml/lexml-eta)                                                   | TypeScript           | [site](http://projeto.lexml.gov.br/) [comunidade](https://github.com/lexml) |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                                   | Múltiplas linguagens |                                                                     |
 | [BigLinux](https://github.com/biglinux)                                                          | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
