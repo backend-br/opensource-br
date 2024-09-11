@@ -15,40 +15,40 @@ Espaço para divulgação de projetos open-source brasileiros.
 | Nome                                                                                             | Linguagem            | Outros links                                                        |
 |--------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------|
 | [HardInfo](https://github.com/lpereira/hardinfo)                                                 | C                    |                                                                     |
-| [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                             | C#                   | [documentação](https://guibranco.github.io/BancosBrasileiros)       |
+| [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                             | C#                   | [Documentação](https://guibranco.github.io/BancosBrasileiros)       |
 | [LITE-DB](https://github.com/mbdavid/LiteDB)                                                     | C#                   |                                                                     |
-| [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                                        | C#                   | [documentação](https://guibranco.github.io/CrispyWaffle)            |
+| [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                                        | C#                   | [Documentação](https://guibranco.github.io/CrispyWaffle)            |
 | [Weather API](https://github.com/robertoduessmann/weather-api)                                   | Go                   |                                                                     |
 | [Corcel](https://github.com/corcel/corcel)                                                       | PHP                  |                                                                     |
 | [i-Educar](https://github.com/portabilis/i-educar)                                               | PHP                  |                                                                     |
 | [Tainacan](https://github.com/tainacan/tainacan)                                                 | PHP                  |                                                                     |
-| [Validation](https://github.com/Respect/Validation)                                              | PHP                  | [documentação](https://respect-validation.readthedocs.io/en/latest) |
+| [Validation](https://github.com/Respect/Validation)                                              | PHP                  | [Documentação](https://respect-validation.readthedocs.io/en/latest) |
 | [Tiny Blocks](https://github.com/tiny-blocks)                                                    | PHP                  |                                                                     |
 | [PHP4Noobs](https://github.com/DanielHe4rt/php4noobs)                                            | PHP                  |                                                                     |
 | [Hyperf Metric](https://github.com/opencodeco/hyperf-metric)                                     | PHP                  |                                                                     |
 | [Hyperf Tracer](https://github.com/opencodeco/hyperf-tracer)                                     | PHP                  |                                                                     |
-| [Pancake](https://github.com/guibranco/pancake)                                                  | PHP                  | [documentação](https://guibranco.github.io/pancake)                 |
+| [Pancake](https://github.com/guibranco/pancake)                                                  | PHP                  | [Documentação](https://guibranco.github.io/pancake)                 |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                                    | Rust                 |                                                                     |
-| [Turing](https://github.com/openturing/turing)                                                   | Java                 | [documentação](https://openviglet.github.io/turing)                 |
+| [Turing](https://github.com/openturing/turing)                                                   | Java                 | [Documentação](https://openviglet.github.io/turing)                 |
 | [Vecchio](https://github.com/openviglet/vecchio)                                                 | Java                 |                                                                     |
 | [Java4Noobs](https://github.com/paulorievrs/java4noobs)                                          | Java                 |                                                                     |
-| [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [documentação](https://elixir-lang.org/docs.html)                   |
+| [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [Documentação](https://elixir-lang.org/docs.html)                   |
 | [Kotlin4Noobs](https://github.com/gustavofreze/kotlin4noobs)                                     | Kotlin               |                                                                     |
-| [webBudget](https://github.com/web-budget)                                                       | Kotlin               | [site](https://webbudget.com.br)                                    |
-| [Vagas pra mim](https://github.com/douglasdcm/search-jobs)                                       | Python               | [Website](https://vagaspramim.onrender.com)                         |
+| [webBudget](https://github.com/web-budget)                                                       | Kotlin               | [Site](https://webbudget.com.br)                                    |
+| [Vagas pra mim](https://github.com/douglasdcm/search-jobs)                                       | Python               | [Site](https://vagaspramim.onrender.com)                            |
 | [fklearn](https://github.com/nubank/fklearn)                                                     | Python               |                                                                     |
 | [Dateutil](https://github.com/dateutil/dateutil)                                                 | Python               |                                                                     |
 | [RastreioBot](https://github.com/GabrielRF/RastreioBot)                                          | Python               |                                                                     |
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                                      | Python               |                                                                     |
-| [Querido Diário](https://github.com/okfn-brasil/querido-diario)                                  | Python               | [site](https://queridodiario.ok.org.br)                             |
-| [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)                              | Python               | [site](https://serenata.ai)                                         |
+| [Querido Diário](https://github.com/okfn-brasil/querido-diario)                                  | Python               | [Site](https://queridodiario.ok.org.br)                             |
+| [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)                              | Python               | [Site](https://serenata.ai)                                         |
 | [Municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)                      | Python               |                                                                     |
 | [SlackBot: No CPF](https://github.com/marcieltorres/slack-bot-no-cpf)                            | Python               |                                                                     |
-| [PyFlunt](https://github.com/fazedordecodigo/pyflunt)                                            | Python               | [Pypi](https://pypi.org/project/flunt)                              |
+| [PyFlunt](https://github.com/fazedordecodigo/pyflunt)                                            | Python               |                                                                     |
 | [PyPicPay](https://github.com/hudsonbrendon/pypicpay)                                            | Python               |                                                                     |
 | [PyNubank](https://github.com/andreroggeri/pynubank)                                             | Python               |                                                                     |
 | [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development)                                  | Assembly             |                                                                     |
-| [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [site](https://githubbrasil.com/en)                                 |
+| [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [Site](https://githubbrasil.com/en)                                 |
 | [Desafios](https://github.com/backend-br/desafios)                                               | Markdown             |                                                                     |
 | [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                                      | Markdown             |                                                                     |
 | [Game datasets](https://github.com/leomaurodesenv/game-datasets)                                 | Markdown             |                                                                     |
@@ -58,25 +58,17 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Open School BR](https://github.com/openschoolbr/sobre)                                          | Markdown             |                                                                     |
 | [Design Patterns for Humans](https://github.com/design-patterns-for-humans/brazilian-portuguese) | Markdown             |                                                                     |
 | [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                        | Markdown             |                                                                     |
-| [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [site](https://enegrecer-e37b3.firebaseapp.com/)                    |
-| [Perifacode](https://github.com/perifacode/conteudo-gratuito)                                    | Markdown             | [site](http://perifacode.com/) [comunidade](https://github.com/perifacode)                   |
-| [Cypherpunksbr](https://github.com/cypherpunksbr/guia-pratico)                                   | Markdown             | [site](http://cypherpunks.com.br/) [comunidade](https://github.com/cypherpunksbr) |
-| [DevEstrada](https://github.com/devnaestrada/devnaestrada.com.br)                                | Markdown             | [site](https://devnaestrada.com.br/) [comunidade](https://github.com/devnaestrada/)
-| [Pirata](https://github.com/piratas/gti)                                                         | Markdown             | [site](https://partidopirata.org/) [comunidade](https://github.com/piratas) |
-| [Lista Maravilhosa Open Source](https://github.com/camilatigre/listamaravilhosaopensource)       | Markdown             |                                                                     |
-| [Caravela HackerClub](https://github.com/caravelahc/projetos)                                    | Markdown             | [site](https://caravela.ufsc.br/) [comunidade](https://github.com/caravelahc/) |
-| [Jornada do Engenheiro de Software](https://github.com/codermarcos/jornada-engenheiro-de-software)| Markdown            |                                                                      |
-| [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [site](https://www.docz.site)                                       |
+| [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [Site](https://enegrecer-e37b3.firebaseapp.com)                     |
+| [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [Site](https://www.docz.Site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                         | Javascript           |                                                                     |
-| [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [site](https://brasilapi.com.br)                                    |
+| [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [Site](https://brasilapi.com.br)                                    |
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                                         | Javascript           |                                                                     |
-| [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                    | Javascript           | [discord](https://discord.gg/XTrKQ8w)                               |
+| [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                    | Javascript           |                                                                     |
 | [Simple Mask Money](https://github.com/codermarcos/simple-mask-money)                            | Javascript           |                                                                     |
-| [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           | [npm](https://www.npmjs.com/package/concurrently)                   |
+| [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           |                                                                     |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
-| [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [documentação](https://poku.io/docs)                                |
-| [SOS-RS](https://github.com/SOS-RS/backend)                                                      | Typesript            | [site](https://sos-rs.com/) [projeto](https://github.com/SOS-RS)    |
-| [LXML-ETA](https://github.com/lexml/lexml-eta)                                                   | TypeScript           | [site](http://projeto.lexml.gov.br/) [comunidade](https://github.com/lexml) |
+| [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
+| [SOS-RS](https://github.com/SOS-RS/backend)                                                      | TypeScript           | [Site](https://sos-rs.com)                                          |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                                   | Múltiplas linguagens |                                                                     |
 | [BigLinux](https://github.com/biglinux)                                                          | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
