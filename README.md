@@ -13,7 +13,8 @@ Espaço para divulgação de projetos open-source brasileiros.
 ## Projetos
 
 | Nome                                                                                             | Linguagem            | Outros links                                                        |
-|--------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------|
+|--------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------| 
+| [Portuscript](https://github.com/natanfeitosa/portuscript) | Go | [Documentação](https://portudoc.rtfd.io/) |
 | [HardInfo](https://github.com/lpereira/hardinfo)                                                 | C                    |                                                                     |
 | [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                             | C#                   | [Documentação](https://guibranco.github.io/BancosBrasileiros)       |
 | [LITE-DB](https://github.com/mbdavid/LiteDB)                                                     | C#                   |                                                                     |
