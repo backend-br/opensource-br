@@ -16,6 +16,8 @@ Espaço para divulgação de projetos open-source brasileiros.
 |--------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------|
 | [HardInfo](https://github.com/lpereira/hardinfo)                                                 | C                    |                                                                     |
 | [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                             | C#                   | [Documentação](https://guibranco.github.io/BancosBrasileiros)       |
+| [EficazFramework](https://github.com/Eficaz-Sistemas/EficazFramework)                            | C#                   |                                                                     |
+| [EficazFramework.SPED](https://github.com/Eficaz-Sistemas/EficazFramework.SPED)                  | C#                   |                                                                     |
 | [LITE-DB](https://github.com/mbdavid/LiteDB)                                                     | C#                   |                                                                     |
 | [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                                        | C#                   | [Documentação](https://guibranco.github.io/CrispyWaffle)            |
 | [Weather API](https://github.com/robertoduessmann/weather-api)                                   | Go                   |                                                                     |
