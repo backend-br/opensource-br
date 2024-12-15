@@ -16,7 +16,7 @@ jobs:
       pull-requests: write
     steps:
       - name: Assign issues and pull requests
-        uses: gustavofreze/auto-assign@1.1.0
+        uses: gustavofreze/auto-assign@1.1.1
         with:
           assignees: '${{ secrets.ASSIGNEES }}'
           github_token: '${{ secrets.GITHUB_TOKEN }}'
