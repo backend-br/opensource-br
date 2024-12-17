@@ -70,7 +70,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
 | [SOS-RS](https://github.com/SOS-RS/backend)                                                      | TypeScript           |                                                                     |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                                   | Múltiplas linguagens |                                                                     |
-| [BigLinux](https://github.com/biglinux)                                                          | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
 | [BrasilOpen](https://github.com/brasilopen/brasilopen)                                           | Múltiplas linguagens |                                                                     |
 | [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |                                                                     |
