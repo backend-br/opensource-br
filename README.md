@@ -69,6 +69,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
 | [SOS-RS](https://github.com/SOS-RS/backend)                                                      | TypeScript           |                                                                     |
+| [NoteBlockWorld](https://github.com/OpenNBS/NoteBlockWorld)                                      | TypeScript           | [Site](https://noteblock.world/)                                    |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                                   | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
 | [BrasilOpen](https://github.com/brasilopen/brasilopen)                                           | Múltiplas linguagens |                                                                     |
