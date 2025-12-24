@@ -40,7 +40,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Dateutil](https://github.com/dateutil/dateutil)                                                 | Python               |                                                                     |
 | [RastreioBot](https://github.com/GabrielRF/RastreioBot)                                          | Python               |                                                                     |
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                                      | Python               |                                                                     |
-| [Querido Diário](https://github.com/okfn-brasil/querido-diario)                                  | Python               | [Site](https://queridodiario.ok.org.br)                             |
 | [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)                              | Python               | [Site](https://serenata.ai)                                         |
 | [Municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)                      | Python               |                                                                     |
 | [SlackBot: No CPF](https://github.com/marcieltorres/slack-bot-no-cpf)                            | Python               |                                                                     |
