@@ -73,6 +73,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
 | [BrasilOpen](https://github.com/brasilopen/brasilopen)                                           | Múltiplas linguagens |                                                                     |
 | [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |                                                                     |
+| [BitChicken](https://github.com/robertvbs/BitChicken)                                            | Múltiplas linguagens |                                                                     |
 
 <div id='license'></div>
 
