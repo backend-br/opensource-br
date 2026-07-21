@@ -64,6 +64,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                                         | Javascript           |                                                                     |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                    | Javascript           |                                                                     |
 | [Simple Mask Money](https://github.com/codermarcos/simple-mask-money)                            | Javascript           |                                                                     |
+| [massa-br](https://github.com/oazevedolucas/massa-br)                                            | Javascript           | [npm](https://www.npmjs.com/package/massa-br)                       |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           |                                                                     |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
