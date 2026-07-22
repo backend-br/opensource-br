@@ -29,7 +29,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Hyperf Tracer](https://github.com/opencodeco/hyperf-tracer)                                     | PHP                  |                                                                     |
 | [Pancake](https://github.com/guibranco/pancake)                                                  | PHP                  | [Documentação](https://guibranco.github.io/pancake)                 |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                                    | Rust                 |                                                                     |
-| [Turing](https://github.com/openturing/turing)                                                   | Java                 | [Documentação](https://openviglet.github.io/turing)                 |
 | [Vecchio](https://github.com/openviglet/vecchio)                                                 | Java                 |                                                                     |
 | [Java4Noobs](https://github.com/paulorievrs/java4noobs)                                          | Java                 |                                                                     |
 | [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [Documentação](https://elixir-lang.org/docs.html)                   |
@@ -64,7 +63,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                                         | Javascript           |                                                                     |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                    | Javascript           |                                                                     |
 | [Simple Mask Money](https://github.com/codermarcos/simple-mask-money)                            | Javascript           |                                                                     |
-| [massa-br](https://github.com/oazevedolucas/massa-br)                                            | Javascript           | [npm](https://www.npmjs.com/package/massa-br)                       |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           |                                                                     |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
