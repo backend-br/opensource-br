@@ -45,6 +45,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [PyFlunt](https://github.com/fazedordecodigo/pyflunt)                                            | Python               |                                                                     |
 | [PyPicPay](https://github.com/hudsonbrendon/pypicpay)                                            | Python               |                                                                     |
 | [PyNubank](https://github.com/andreroggeri/pynubank)                                             | Python               |                                                                     |
+| [Brazilian Utils](https://github.com/brazilian-utils/python)                                     | Python               |                                                                     |
 | [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development)                                  | Assembly             |                                                                     |
 | [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [Site](https://githubbrasil.com/en)                                 |
 | [Desafios](https://github.com/backend-br/desafios)                                               | Markdown             |                                                                     |
@@ -63,7 +64,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                                         | Javascript           |                                                                     |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                    | Javascript           |                                                                     |
 | [Simple Mask Money](https://github.com/codermarcos/simple-mask-money)                            | Javascript           |                                                                     |
-| [Zeca - Gestão de Carteiras e Ativos](https://github.com/hugodeaguiar/zeca)                  | Javascript           | [Site](https://zeca.app.br/)                                |
+| [Zeca - Gestão de Carteiras e Ativos](https://github.com/hugodeaguiar/zeca)                      | Javascript           | [Site](https://zeca.app.br/)                                        |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           |                                                                     |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
@@ -74,8 +75,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [BrasilOpen](https://github.com/brasilopen/brasilopen)                                           | Múltiplas linguagens |                                                                     |
 | [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |                                                                     |
 | [BitChicken](https://github.com/robertvbs/BitChicken)                                            | Múltiplas linguagens |                                                                     |
-
-
 
 <div id='license'></div>
 
