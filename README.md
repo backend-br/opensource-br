@@ -65,6 +65,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                    | Javascript           |                                                                     |
 | [Simple Mask Money](https://github.com/codermarcos/simple-mask-money)                            | Javascript           |                                                                     |
 | [Zeca - Gestão de Carteiras e Ativos](https://github.com/hugodeaguiar/zeca)                      | Javascript           | [Site](https://zeca.app.br/)                                        |
+| [pix2qr](https://github.com/ZaMpAdAKiNg/pix2qr)                                                  | Javascript           | [Site](https://pix2qr.xyz/)                                         |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           |                                                                     |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
