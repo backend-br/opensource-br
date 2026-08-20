@@ -46,6 +46,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [PyPicPay](https://github.com/hudsonbrendon/pypicpay)                                            | Python               |                                                                     |
 | [PyNubank](https://github.com/andreroggeri/pynubank)                                             | Python               |                                                                     |
 | [Brazilian Utils](https://github.com/brazilian-utils/python)                                     | Python               |                                                                     |
+| [Securo](https://github.com/securo-finance/securo)                                               | Python               | [Site](https://usesecuro.com)                                       |
 | [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development)                                  | Assembly             |                                                                     |
 | [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [Site](https://githubbrasil.com/en)                                 |
 | [Desafios](https://github.com/backend-br/desafios)                                               | Markdown             |                                                                     |
