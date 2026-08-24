@@ -29,6 +29,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Hyperf Tracer](https://github.com/opencodeco/hyperf-tracer)                                     | PHP                  |                                                                     |
 | [Pancake](https://github.com/guibranco/pancake)                                                  | PHP                  | [Documentação](https://guibranco.github.io/pancake)                 |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                                    | Rust                 |                                                                     |
+| [OpenShoot](https://github.com/RicSchonfelder/OpenShoot)                                         | Rust                 |                                                                     |
 | [Vecchio](https://github.com/openviglet/vecchio)                                                 | Java                 |                                                                     |
 | [Java4Noobs](https://github.com/paulorievrs/java4noobs)                                          | Java                 |                                                                     |
 | [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [Documentação](https://elixir-lang.org/docs.html)                   |
@@ -61,6 +62,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [Site](https://enegrecer-e37b3.firebaseapp.com)                     |
 | [Docz](https://github.com/doczjs/docz)                                                           | Javascript           | [Site](https://www.docz.Site)                                       |
 | [Dialetus](https://github.com/dialetus/dialetus-service)                                         | Javascript           |                                                                     |
+| [MD Viewer](https://github.com/RicSchonfelder/MD-Viewer)                                         | Javascript           |                                                                     |
 | [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | Javascript           | [Site](https://brasilapi.com.br)                                    |
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                                         | Javascript           |                                                                     |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                    | Javascript           |                                                                     |
