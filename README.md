@@ -72,7 +72,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
 | [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |                                                                     |
 | [BitChicken](https://github.com/robertvbs/BitChicken)                                            | Múltiplas linguagens |                                                                     |
-| "S File Encryptor" (https://github.com/LukeSsnake/S-File-Encryptor) | Kotlin/Java | "Google Play" (https://play.google.com/store/apps/details?id=com.lukestudio.fileencryptor2) |
+| [S File Encryptor](https://github.com/LukeSsnake/S-File-Encryptor) | Kotlin/Java | [Google Play](https://play.google.com/store/apps/details?id=com.lukestudio.fileencryptor2) |
 
 <div id='license'></div>
 
