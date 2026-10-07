@@ -17,8 +17,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 
 
 
-| .[Mulher Amparada]
-.(https://github.com/mulher-amparada/mulher-amparada-app).
+| [Mulher Amparada](https://github.com/mulher-amparada/mulher-amparada-app) | Kotlin | [Site](https://mulher-amparada.github.io/mulher-amparada-app/) |
 
 | [HardInfo](https://github.com/lpereira/hardinfo)                                                 | C                    |                                                                     |
 | [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                             | C#                   | [Documentação](https://guibranco.github.io/BancosBrasileiros)       |
