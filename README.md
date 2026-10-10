@@ -16,7 +16,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 |--------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------|
 | [HardInfo](https://github.com/lpereira/hardinfo)                                                 | C                    |                                                                     |
 | [Bancos Brasileiros](https://github.com/GuiBranco/BancosBrasileiros)                             | C#                   | [Documentação](https://guilherme.stracini.com.br/BancosBrasileiros/) |
-| [LiteDB](https://github.com/litedb-org/LiteDB)                                                   | C#                   |                                                                     |
 | [CrispyWaffle](https://github.com/GuiBranco/CrispyWaffle)                                        | C#                   | [Documentação](https://guilherme.stracini.com.br/CrispyWaffle/)     |
 | [Weather API](https://github.com/robertoduessmann/weather-api)                                   | Go                   |                                                                     |
 | [Corcel](https://github.com/corcel/corcel)                                                       | PHP                  |                                                                     |
@@ -25,8 +24,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Validation](https://github.com/Respect/Validation)                                              | PHP                  | [Documentação](https://respect-validation.readthedocs.io/en/latest) |
 | [Tiny Blocks](https://github.com/tiny-blocks)                                                    | PHP                  |                                                                     |
 | [PHP4Noobs](https://github.com/DanielHe4rt/php4noobs)                                            | PHP                  |                                                                     |
-| [Hyperf Metric](https://github.com/opencodeco/hyperf-metric)                                     | PHP                  |                                                                     |
-| [Hyperf Tracer](https://github.com/opencodeco/hyperf-tracer)                                     | PHP                  |                                                                     |
 | [Pancake](https://github.com/guibranco/pancake)                                                  | PHP                  | [Documentação](https://guilherme.stracini.com.br/pancake/)          |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                                    | Rust                 |                                                                     |
 | [OpenShoot](https://github.com/RicSchonfelder/OpenShoot)                                         | Rust                 |                                                                     |
@@ -51,17 +48,14 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development)                                  | Assembly             |                                                                     |
 | [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [Site](https://githubbrasil.com/en)                                 |
 | [Desafios](https://github.com/backend-br/desafios)                                               | Markdown             |                                                                     |
-| [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)                                      | Markdown             |                                                                     |
 | [Game datasets](https://github.com/leomaurodesenv/game-datasets)                                 | Markdown             |                                                                     |
 | [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)                              | Markdown             |                                                                     |
 | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)     | Markdown             |                                                                     |
 | [Buteco Tecnológico](https://github.com/buteco-tech/blog)                                        | Markdown             | [Site](https://butecotecnologico.com.br)                            |
-| [Open School BR](https://github.com/openschoolbr/sobre)                                          | Markdown             |                                                                     |
 | [Design Patterns for Humans](https://github.com/design-patterns-for-humans/brazilian-portuguese) | Markdown             |                                                                     |
 | [Aprenda GO](https://github.com/geiltonxavier/aprenda-go)                                        | Markdown             |                                                                     |
 | [Enegrecer](https://github.com/Enegrecer/enegrecer-web)                                          | Markdown             | [Site](https://enegrecer-e37b3.firebaseapp.com)                     |
 | [Dialetus](https://github.com/mvfsillva/dialetus-service)                                        | JavaScript           |                                                                     |
-| [MD Viewer](https://github.com/RicSchonfelder/MD-Viewer)                                         | JavaScript           |                                                                     |
 | [Brasil API](https://github.com/BrasilAPI/BrasilAPI)                                             | JavaScript           | [Site](https://brasilapi.com.br)                                    |
 | [Rocket chat](https://github.com/RocketChat/Rocket.Chat)                                         | JavaScript           |                                                                     |
 | [English Talking API](https://github.com/barbosamaatheus/english-talking-api)                    | JavaScript           |                                                                     |
