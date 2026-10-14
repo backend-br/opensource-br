@@ -29,6 +29,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [OpenShoot](https://github.com/RicSchonfelder/OpenShoot)                                         | Rust                 |                                                                     |
 | [Vecchio](https://github.com/openviglet/vecchio)                                                 | Java                 |                                                                     |
 | [Java4Noobs](https://github.com/paulorievrs/java4noobs)                                          | Java                 |                                                                     |
+| [S File Encryptor](https://github.com/LukeSsnake/S-File-Encryptor)                                                       | Java                 | [Google Play](https://play.google.com/store/apps/details?id=com.lukestudio.fileencryptor2)     |
 | [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [Documentação](https://elixir-lang.org/docs.html)                   |
 | [Kotlin4Noobs](https://github.com/gustavofreze/kotlin4noobs)                                     | Kotlin               |                                                                     |
 | [webBudget](https://github.com/web-budget)                                                       | Kotlin               | [Site](https://webbudget.com.br)                                    |
@@ -72,7 +73,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
 | [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |                                                                     |
 | [BitChicken](https://github.com/robertvbs/BitChicken)                                            | Múltiplas linguagens |                                                                     |
-| [S File Encryptor](https://github.com/LukeSsnake/S-File-Encryptor) | Kotlin/Java | [Google Play](https://play.google.com/store/apps/details?id=com.lukestudio.fileencryptor2) |
 
 <div id='license'></div>
 
