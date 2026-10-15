@@ -68,6 +68,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
 | [SOS-RS](https://github.com/SOS-RS/backend)                                                      | TypeScript           |                                                                     |
 | [NoteBlockWorld](https://github.com/OpenNBS/NoteBlockWorld)                                      | TypeScript           | [Site](https://noteblock.world/)                                    |
+| [FakeForge](https://github.com/everpaula/fakeforge-node)                                         | TypeScript           | [Site](https://fakeforge.com.br)                                    |
 | [KYA Brasil](https://github.com/celfons/kya-brasil)                                             | TypeScript           | [Site](https://kya-br-agents.marcelfons.workers.dev)                 |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                                   | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
