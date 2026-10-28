@@ -1,0 +1,38 @@
+name: Contributing check
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - synchronize
+  workflow_dispatch:
+    inputs:
+      pull_request_number:
+        description: Pull request number
+        required: true
+        type: number
+
+concurrency:
+  group: contributing-check-${{ github.event.pull_request.number || inputs.pull_request_number }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  contributing-check:
+    name: Contributing check
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Check the pull request against CONTRIBUTING.md
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const check = require('./.github/scripts/contributing-check');
+            await check({ github, context });
