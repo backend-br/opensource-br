@@ -75,11 +75,11 @@ class PullRequestComment {
   bodyFor(problems) {
     return [
       MARKER,
-      `Obrigado por contribuir! Na verificação automática com base no [CONTRIBUTING.md](${CONTRIBUTING_URL}), encontrei pontos a resolver:`,
+      `Thanks for contributing! The automatic check based on [CONTRIBUTING.md](${CONTRIBUTING_URL}) found points to resolve:`,
       '',
       ...problems.map(problem => `- ${problem}`),
       '',
-      'Ajuste o pull request ou responda aqui. A verificação roda de novo a cada atualização.'
+      'Update the pull request or reply here. The check runs again on every update.'
     ].join('\n');
   }
 }
