@@ -24,7 +24,10 @@ class BaseBranchRule extends Rule {
   }
 
   describe(pullRequest) {
-    return `The pull request must target the \`${EXPECTED_BASE_BRANCH}\` branch (it targets \`${pullRequest.base.ref}\`).`;
+    return {
+      pt: `O pull request deve apontar para a branch \`${EXPECTED_BASE_BRANCH}\` (aponta para \`${pullRequest.base.ref}\`).`,
+      en: `The pull request must target the \`${EXPECTED_BASE_BRANCH}\` branch (it targets \`${pullRequest.base.ref}\`).`
+    };
   }
 }
 
@@ -34,7 +37,10 @@ class ExistingProjectRule extends Rule {
   }
 
   describe(evidence) {
-    return `\`${evidence.reference.label}\`: the project was not found or is not public on GitHub.`;
+    return {
+      pt: `\`${evidence.reference.label}\`: o projeto não foi encontrado ou não é público no GitHub.`,
+      en: `\`${evidence.reference.label}\`: the project was not found or is not public on GitHub.`
+    };
   }
 }
 
@@ -51,7 +57,10 @@ class ContributionGuideRule extends Rule {
   }
 
   describe(evidence) {
-    return `\`${evidence.reference.label}\`: no contribution guide found (\`CONTRIBUTING.md\` or a contributing section in the README).`;
+    return {
+      pt: `\`${evidence.reference.label}\`: nenhum guia de contribuição encontrado (\`CONTRIBUTING.md\` ou uma seção de contribuição no README).`,
+      en: `\`${evidence.reference.label}\`: no contribution guide found (\`CONTRIBUTING.md\` or a contributing section in the README).`
+    };
   }
 }
 
@@ -65,7 +74,10 @@ class BrazilianProjectRule extends Rule {
   }
 
   describe(evidence) {
-    return `\`${evidence.reference.label}\`: could not confirm that the project is Brazilian. Please explain in the pull request why it fits.`;
+    return {
+      pt: `\`${evidence.reference.label}\`: não foi possível confirmar que o projeto é brasileiro. Explique no pull request por que ele se encaixa.`,
+      en: `\`${evidence.reference.label}\`: could not confirm that the project is Brazilian. Please explain in the pull request why it fits.`
+    };
   }
 }
 

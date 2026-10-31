@@ -1,4 +1,5 @@
 const { GitHubProjectGateway } = require('./GitHubProjectGateway');
+const { detectLanguage } = require('./language');
 const { PullRequestComment } = require('./PullRequestComment');
 const { ReadmeProjects } = require('./ReadmeProjects');
 const { problemsOf, projectRules, pullRequestRules } = require('./rules');
@@ -25,5 +26,7 @@ module.exports = async ({ github, context }) => {
     ...evidences.flatMap(evidence => problemsOf(projectRules, evidence))
   ];
 
-  await new PullRequestComment({ github, owner, repo, number: pullRequest.number }).sync(problems);
+  const language = detectLanguage(`${pullRequest.title ?? ''}\n${pullRequest.body ?? ''}`);
+
+  await new PullRequestComment({ github, owner, repo, number: pullRequest.number }).sync(problems, language);
 };
