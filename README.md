@@ -62,6 +62,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Simple Mask Money](https://github.com/codermarcos/simple-mask-money)                            | JavaScript           |                                                                     |
 | [Zeca - Gestão de Carteiras e Ativos](https://github.com/hugodeaguiar/zeca)                      | JavaScript           | [Site](https://zeca.app.br/)                                        |
 | [pix2qr](https://github.com/ZaMpAdAKiNg/pix2qr)                                                  | JavaScript           |                                                                     |
+| [Marcas de IA](https://github.com/everpaula/marcas-de-ia)                                        | JavaScript           | [Usado no PostaGen](https://postagen.ia.br)                         |
 | [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           |                                                                     |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
