@@ -24,12 +24,14 @@ permissions:
 jobs:
   contributing-check:
     name: Contributing check
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v7
         with:
           persist-credentials: false
+
       - name: Check the pull request against CONTRIBUTING.md
         uses: actions/github-script@v8
         with:
