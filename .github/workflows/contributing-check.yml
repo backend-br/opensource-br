@@ -36,5 +36,5 @@ jobs:
         uses: actions/github-script@v8
         with:
           script: |
-            const check = require('./.github/scripts/contributing-check');
-            await check({ github, context });
+            const { default: check } = await import(`${process.env.GITHUB_WORKSPACE}/.github/scripts/contributing-check/index.mjs`)
+            await check({ github, context })
