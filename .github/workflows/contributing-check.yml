@@ -17,22 +17,25 @@ concurrency:
   group: contributing-check-${{ github.event.pull_request.number || inputs.pull_request_number }}
   cancel-in-progress: true
 
-permissions:
-  contents: read
-  pull-requests: write
+permissions: {}
 
 jobs:
   contributing-check:
     name: Contributing check
-    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    runs-on: ubuntu-26.04
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
           persist-credentials: false
+
       - name: Check the pull request against CONTRIBUTING.md
-        uses: actions/github-script@v8
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3
         with:
           script: |
-            const check = require('./.github/scripts/contributing-check');
-            await check({ github, context });
+            const { default: check } = await import(`${process.env.GITHUB_WORKSPACE}/.github/scripts/contributing-check/index.mjs`)
+            await check({ github, context })
