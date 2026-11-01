@@ -27,6 +27,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Pancake](https://github.com/guibranco/pancake)                                                  | PHP                  | [Documentação](https://guilherme.stracini.com.br/pancake/)          |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                                    | Rust                 |                                                                     |
 | [OpenShoot](https://github.com/RicSchonfelder/OpenShoot)                                         | Rust                 |                                                                     |
+| [Corneta](https://github.com/pitroldev/corneta)                                                   | Rust / TypeScript    | [Site](https://www.corneta.live)                                      |
 | [Java4Noobs](https://github.com/paulorievrs/java4noobs)                                          | Java                 |                                                                     |
 | [S File Encryptor](https://github.com/LukeSsnake/S-File-Encryptor)                               | Java                 |    [Google Play](https://play.google.com/store/apps/details?id=com.lukestudio.fileencryptor2) |
 | [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [Documentação](https://elixir-lang.org/docs.html)                   |
