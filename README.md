@@ -35,7 +35,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [webBudget](https://github.com/web-budget)                                                       | Kotlin               | [Site](https://webbudget.com.br)                                    |
 | [Vagas pra mim](https://github.com/douglasdcm/search-jobs)                                       | Python               | [Site](https://vagaspramim.onrender.com)                            |
 | [fklearn](https://github.com/nubank/fklearn)                                                     | Python               |                                                                     |
-| [Dateutil](https://github.com/dateutil/dateutil)                                                 | Python               |                                                                     |
 | [RastreioBot](https://github.com/GabrielRF/RastreioBot)                                          | Python               |                                                                     |
 | [Speakerfight](https://github.com/luanfonceca/speakerfight)                                      | Python               |                                                                     |
 | [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)                              | Python               | [Site](https://serenata.ai)                                         |
@@ -63,7 +62,6 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Simple Mask Money](https://github.com/codermarcos/simple-mask-money)                            | JavaScript           |                                                                     |
 | [Zeca - Gestão de Carteiras e Ativos](https://github.com/hugodeaguiar/zeca)                      | JavaScript           | [Site](https://zeca.app.br/)                                        |
 | [pix2qr](https://github.com/ZaMpAdAKiNg/pix2qr)                                                  | JavaScript           |                                                                     |
-| [Concurrently](https://github.com/open-cli-tools/concurrently)                                   | TypeScript           |                                                                     |
 | [Delegua](https://github.com/DesignLiquido/delegua)                                              | TypeScript           |                                                                     |
 | [Poku - Simplificando Testes Automatizados](https://github.com/wellwelwel/poku)                  | TypeScript           | [Documentação](https://poku.io/docs)                                |
 | [SOS-RS](https://github.com/SOS-RS/backend)                                                      | TypeScript           |                                                                     |
