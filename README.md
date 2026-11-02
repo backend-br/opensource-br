@@ -21,16 +21,16 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Corcel](https://github.com/corcel/corcel)                                                       | PHP                  |                                                                     |
 | [i-Educar](https://github.com/portabilis/i-educar)                                               | PHP                  |                                                                     |
 | [Tainacan](https://github.com/tainacan/tainacan)                                                 | PHP                  |                                                                     |
-| [Validation](https://github.com/Respect/Validation)                                              | PHP                  | [Documentação](https://respect-validation.readthedocs.io/en/latest) |
+| [Validation](https://github.com/Respect/Validation)                                              | PHP                  | [Documentação](https://respect-validation.readthedocs.io/en/latest/) |
 | [Tiny Blocks](https://github.com/tiny-blocks)                                                    | PHP                  |                                                                     |
 | [PHP4Noobs](https://github.com/DanielHe4rt/php4noobs)                                            | PHP                  |                                                                     |
 | [Pancake](https://github.com/guibranco/pancake)                                                  | PHP                  | [Documentação](https://guilherme.stracini.com.br/pancake/)          |
 | [py2rs](https://github.com/rochacbruno/py2rs)                                                    | Rust                 |                                                                     |
 | [OpenShoot](https://github.com/RicSchonfelder/OpenShoot)                                         | Rust                 |                                                                     |
-| [Corneta](https://github.com/pitroldev/corneta)                                                   | Rust / TypeScript    | [Site](https://www.corneta.live)                                      |
+| [Corneta](https://github.com/pitroldev/corneta)                                                   | Rust / TypeScript    | [Site](https://www.corneta.live/en)                                      |
 | [Java4Noobs](https://github.com/paulorievrs/java4noobs)                                          | Java                 |                                                                     |
 | [S File Encryptor](https://github.com/LukeSsnake/S-File-Encryptor)                               | Java                 |    [Google Play](https://play.google.com/store/apps/details?id=com.lukestudio.fileencryptor2) |
-| [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [Documentação](https://elixir-lang.org/docs.html)                   |
+| [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [Documentação](https://elixir-lang.org/docs.html/)                   |
 | [Kotlin4Noobs](https://github.com/gustavofreze/kotlin4noobs)                                     | Kotlin               |                                                                     |
 | [webBudget](https://github.com/web-budget)                                                       | Kotlin               | [Site](https://webbudget.com.br)                                    |
 | [Vagas pra mim](https://github.com/douglasdcm/search-jobs)                                       | Python               | [Site](https://vagaspramim.onrender.com)                            |
@@ -45,9 +45,9 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [PyPicPay](https://github.com/hudsonbrendon/pypicpay)                                            | Python               |                                                                     |
 | [PyNubank](https://github.com/andreroggeri/pynubank)                                             | Python               |                                                                     |
 | [Brazilian Utils](https://github.com/brazilian-utils/python)                                     | Python               |                                                                     |
-| [Securo](https://github.com/securo-finance/securo)                                               | Python               | [Site](https://usesecuro.com)                                       |
+| [Securo](https://github.com/securo-finance/securo)                                               | Python               | [Site](https://www.usesecuro.com/en)                                     |
 | [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development)                                  | Assembly             |                                                                     |
-| [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [Site](https://githubbrasil.com/en)                                 |
+| [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [Site](https://githubbrasil.com/en/)                                 |
 | [Desafios](https://github.com/backend-br/desafios)                                               | Markdown             |                                                                     |
 | [Game datasets](https://github.com/leomaurodesenv/game-datasets)                                 | Markdown             |                                                                     |
 | [Kotlin no backend](https://github.com/kotlin-br/kotlin-no-backend)                              | Markdown             |                                                                     |
