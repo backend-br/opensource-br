@@ -45,6 +45,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [PyNubank](https://github.com/andreroggeri/pynubank)                                             | Python               |                                                                     |
 | [Brazilian Utils](https://github.com/brazilian-utils/python)                                     | Python               |                                                                     |
 | [Securo](https://github.com/securo-finance/securo)                                               | Python               | [Site](https://www.usesecuro.com/en)                                     |
+| [Auto Assign](https://github.com/gustavofreze/auto-assign)                                       | Python               |                                                                     |
 | [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development)                                  | Assembly             |                                                                     |
 | [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [Site](https://githubbrasil.com/en/)                                 |
 | [Desafios](https://github.com/backend-br/desafios)                                               | Markdown             |                                                                     |
