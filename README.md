@@ -69,6 +69,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [NoteBlockWorld](https://github.com/OpenNBS/NoteBlockWorld)                                      | TypeScript           | [Site](https://noteblock.world/)                                    |
 | [FakeForge](https://github.com/everpaula/fakeforge-node)                                         | TypeScript           | [Site](https://fakeforge.com.br)                                    |
 | [KYA Brasil](https://github.com/celfons/kya-brasil)                                             | TypeScript           | [Site](https://kya-br-agents.marcelfons.workers.dev)                 |
+| [logos-bancos-br](https://github.com/rzmt/logos-bancos-br)                                       | TypeScript           | [Galeria](https://rzmt.github.io/logos-bancos-br/)                  |
 | [Funny algorithms](https://github.com/ReciHub/FunnyAlgorithms)                                   | Múltiplas linguagens |                                                                     |
 | [DuzeruLinux](https://github.com/duzerulinux)                                                    | Múltiplas linguagens |                                                                     |
 | [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)                                   | Múltiplas linguagens |                                                                     |
