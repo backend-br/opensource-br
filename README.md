@@ -46,6 +46,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Brazilian Utils](https://github.com/brazilian-utils/python)                                     | Python               |                                                                     |
 | [Securo](https://github.com/securo-finance/securo)                                               | Python               | [Site](https://www.usesecuro.com/en)                                     |
 | [Auto Assign](https://github.com/gustavofreze/auto-assign)                                       | Python               |                                                                     |
+| [Vault of Loci](https://github.com/erikunha/vault-of-loci)                                       | Python               | [Contributing](https://github.com/erikunha/vault-of-loci/blob/main/.github/CONTRIBUTING.md) |
 | [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development)                                  | Assembly             |                                                                     |
 | [Awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)         | Markdown             | [Site](https://githubbrasil.com/en/)                                 |
 | [Desafios](https://github.com/backend-br/desafios)                                               | Markdown             |                                                                     |
