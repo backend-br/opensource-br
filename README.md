@@ -33,6 +33,7 @@ Espaço para divulgação de projetos open-source brasileiros.
 | [Elixir](https://github.com/elixir-lang/elixir)                                                  | Elixir               | [Documentação](https://elixir-lang.org/docs.html/)                   |
 | [Kotlin4Noobs](https://github.com/gustavofreze/kotlin4noobs)                                     | Kotlin               |                                                                     |
 | [webBudget](https://github.com/web-budget)                                                       | Kotlin               | [Site](https://webbudget.com.br)                                    |
+| [Menew](https://github.com/Quost/menew)                                                          | Swift                | [Site](https://menew.web.app/pt/)                                   |
 | [Vagas pra mim](https://github.com/douglasdcm/search-jobs)                                       | Python               | [Site](https://vagaspramim.onrender.com)                            |
 | [fklearn](https://github.com/nubank/fklearn)                                                     | Python               |                                                                     |
 | [RastreioBot](https://github.com/GabrielRF/RastreioBot)                                          | Python               |                                                                     |
